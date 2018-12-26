@@ -1,2 +1,2 @@
 # Coming Soon
-telegram : t.me/CodeTime
+telegram : https://t.me/CodeTime
