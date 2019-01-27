@@ -1,3 +1,3 @@
-# Documentation https://t.me/CodeTime
-Telegram Support: https://t.me/XodTime </br>
+# Documentation on telegram : @CodeTime
+Telegram Support: @XodTime </br>
 Email: azizi.1379a@gmail.com
